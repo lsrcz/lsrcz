@@ -9,6 +9,12 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/lsrcz">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=lsrcz&rank=-?" />
+</a>
+</p>
+
 <!--
 **lsrcz/lsrcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
